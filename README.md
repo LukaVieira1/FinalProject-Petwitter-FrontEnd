@@ -1,7 +1,7 @@
 # Petwitter
 Petwitter is an application that works as a Twitter for pets, where users can log in, register, tweet, and access user profiles.
 
-You can access a demo [here](https://petwitter.lukavieira.tech/)
+You can access a demo [here](https://petwitter.lukavieira.com/)
 
 ## Prerequisites
 Make sure you have the following tools installed on your machine:
